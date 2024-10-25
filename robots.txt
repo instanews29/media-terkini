@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://instanews29.github.io/media-terkini/sitemap.xml
